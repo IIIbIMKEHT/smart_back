@@ -1,0 +1,12 @@
+/Users/nurbakyt/Desktop/Smart/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/nurbakyt/Desktop/Smart/Domain/bin/Debug/net6.0/Domain.dll
+/Users/nurbakyt/Desktop/Smart/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/Domain.dll
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/nurbakyt/Desktop/Smart/Domain/obj/Debug/net6.0/ref/Domain.dll

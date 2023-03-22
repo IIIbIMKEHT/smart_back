@@ -1,0 +1,15 @@
+D:\Projects\Smart\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Projects\Smart\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Projects\Smart\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Projects\Smart\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Projects\Smart\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Projects\Smart\Persistence\obj\Debug\net7.0\ref\Persistence.dll
